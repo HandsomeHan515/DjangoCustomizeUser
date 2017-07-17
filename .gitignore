@@ -1,0 +1,14 @@
+# editor
+.vscode/
+.DS_Store
+
+# 
+*.pyc
+*.sqlite3
+*.log
+*.log.*
+
+#
+__pycache__/
+migrations/
+
